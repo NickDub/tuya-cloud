@@ -1,0 +1,35 @@
+{
+  "name": "tuya-cloud",
+  "version": "0.0.1",
+  "description": "NodeJS wrapper for Tuya's cloud API",
+  "author": "Nicolas Dubois",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickDub/tuya-cloud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NickDub/tuya-cloud/issues"
+  },
+  "homepage": "https://github.com/NickDub/tuya-cloud#readme",
+  "keywords": [
+    "tuya",
+    "smart_life",
+    "jinvoo",
+    "jinvoo_smart",
+    "cloud",
+    "api",
+    "node",
+    "nodejs"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "debug": "^4.2.0",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {}
+}
